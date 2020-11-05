@@ -1,0 +1,43 @@
+*{
+    background-color: black;
+    color: white;
+}
+
+body{
+    text-align: center;
+    margin-right: auto;
+    margin-left : auto;
+    width:65%;
+}
+
+#ascii-taru {
+    margin: 0;
+    font-size: 25px;
+    color: #46ff0e;
+}
+
+.contents{
+    margin-top: 0;
+    border-top: 2px dashed #46ff0e;
+    border-right: 2px dashed #46ff0e;
+    border-left: 2px dashed #46ff0e;
+}
+
+.accounts {
+    padding: 20px;             
+    height: 100px;   
+    text-align: left;     
+}
+ 
+.account_item {
+    margin:  5px;
+}
+
+.writeup{
+    font-size: 35px;
+}
+
+.construction {
+    border-top: 2px dashed #46ff0e;
+    border-bottom: 2px dashed #46ff0e;
+}
